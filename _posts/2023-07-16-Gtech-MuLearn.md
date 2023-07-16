@@ -1,4 +1,4 @@
 ---
-title: "Gtech Mulearn Page"
+title: "Gtech-MuLearn"
 date: 2023-07-16
 ---
